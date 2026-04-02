@@ -46,3 +46,10 @@ restored-src/src/
 - 源码版权归 [Anthropic](https://www.anthropic.com) 所有
 - 本仓库仅用于技术研究与学习，请勿用于商业用途
 - 如有侵权，请联系删除
+
+---
+
+## Research Use Notice
+
+This repository copy is maintained for private research and study only.
+Commercial use, redistribution, and public deployment are not allowed.
